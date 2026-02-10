@@ -1,0 +1,17 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Build
+build/
+target/
+*.o
+*.so
+*.a
