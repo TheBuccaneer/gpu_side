@@ -1,0 +1,12 @@
+
+meta:
+  project: "gpu_side"
+  seed: 42
+
+run:
+  runs: 5
+  n: 20
+  seconds: 5.0
+
+output:
+  csv: "data/processed/demo.csv"

@@ -1,0 +1,11 @@
+
+# Zentrale Spaltendefinition für alle CSVs (später exakt nach Projektplan füllen)
+columns:
+  - run_id
+  - seed
+  - label
+  - stage
+  - n
+  - seconds
+  - ts_unix
+  - note
